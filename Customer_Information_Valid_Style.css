@@ -1,0 +1,62 @@
+body 
+{
+	background-color: #d6cece;
+	color:  #b30000;
+	font-size: 20px;
+}
+
+h1 
+{
+	text-align: center;
+	color: #000;
+}
+
+#firstname
+{
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+#lastname
+{
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#email
+{
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#submit
+{
+	width: 20em;
+	height: 4em;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: #D3D3D3;
+	color: #b30000;	
+}
+
+fieldset 
+{
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 2px groove (internal value);
+}
+
+form
+{
+	text-align: center;
+}
